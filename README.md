@@ -19,7 +19,7 @@ BarberCoin is the first cryptocurrency designed to empower barbers and their com
 1. Download a Solana-compatible wallet (e.g., Phantom Wallet).
 2. Purchase SOL on an exchange and send it to your wallet.
 3. Visit [Raydium](https://raydium.io/) to trade SOL for $BC:
-   - **Contract Address**: `YOUR_CONTRACT_ADDRESS`
+   - **Contract Address**: 7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4
 
 ## Social Links
 - **Website**: [barbercoin.com](https://barbercoin.com)
