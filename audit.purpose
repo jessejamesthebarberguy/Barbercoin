@@ -1,0 +1,14 @@
+# Audit Preparation for BarberCoin ($BC)
+
+## Key Focus Areas
+- Confirm compliance with Solana SPL Token standards.
+- Verify Mint Authority and Freeze Authority have been revoked.https://solscan.io/token/7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4?page=34
+- Validate tokenomics and locked liquidity. https://www.barbermemecoin.com/white-paper
+
+## Known Risks
+- None identified at this time. The token is built using the standard SPL Token Program.
+
+## Supporting Documentation
+- **GitHub Repository**: 
+- **Token Contract**: https://solscan.io/token/7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4?page=34
+- **Proof of Liquidity Lock**: https://solscan.io/token/7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4?page=34
