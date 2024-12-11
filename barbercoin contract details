@@ -1,0 +1,19 @@
+# BarberCoin Contract Details
+
+## Contract Address
+- **Address**: 7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4
+- **Blockchain**: Solana
+
+## Authorities
+- **Mint Authority**: has been revoked https://solscan.io/token/7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4
+- **Freeze Authority**: has been revoked
+
+## Token Details
+- **Name**: BarberCoin
+- **Symbol**: $BC
+- **Decimals**: 6
+- **Total Supply**: 1,000,000,000
+
+## Links
+- **Token Metadata**: https://solscan.io/token/7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4#metadata
+- **Proof of Liquidity Lock**: https://solscan.io/token/7Q4T8svdc9EK5kxnzBti1RhALXzmw8fAHz3BMGAg5GU4?page=34
